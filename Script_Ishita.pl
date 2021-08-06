@@ -11,4 +11,4 @@ foreach $i( 0 .. length($slack)) {
     $distance++ if (substr($slack,$i,1) ne substr($twitter,$i,1));
   }
 
-print "$name, $email, $slack, $biostack, $twitter, $distance";
+print "$name,$email,$slack,$biostack,$twitter,$distance";
