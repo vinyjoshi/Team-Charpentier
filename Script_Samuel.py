@@ -1,6 +1,0 @@
-print("Name = Samuel Oluwoyo")
-print("Email = samueloluwoyo@gmail.com")
-print("Slack username = @Samuel")
-print("Biostack = Genomics")
-print("Twitter handle = @OluwoyoSamuel")
-print("Hamming Distance = 6")
