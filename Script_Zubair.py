@@ -13,4 +13,4 @@ while(i < len(slackusername)):
         distance += 1
     i += 1
 
-F"{name},{email},{slackusername},{biostack},{twitter},{distance}"
+print(F"{name},{email},{slackusername},{biostack},{twitter},{distance}")
