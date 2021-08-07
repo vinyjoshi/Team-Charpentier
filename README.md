@@ -13,7 +13,7 @@ This is a repository for the task assigned for stage zero to team-charpentier. T
 * Nitigya : JavaScript
 * Harshita : Python
 * Jeel : C++
-* Zubair Alam : python and R
+* Zubair Alam :
 
 ### Dependencies
 The dependencies required to run the following Scripts are mentioned below, make sure you have these installed before running the scripts on your Local Machine.
