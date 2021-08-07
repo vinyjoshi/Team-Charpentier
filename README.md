@@ -27,9 +27,6 @@ This is a repository for the task assigned for stage zero to team-charpentier. T
 ### Dependencies
 The dependencies required to run the following Scripts are mentioned below, make sure you have these installed before running the scripts on your Local Machine.
 
-* ### dos2unix : sudo apt install dos2unix
-This Program is used in the Final bash script to compensate for the fact that most the scripts were written in Window OS. When running these scripts in Linux, they give an 'bad interpreter' error due to the different conventions used in Window and Linux when going to a new line. In Windows it uses ("\r\n") whereas in Linux its just ("\n")
-
 * PHP : https://windows.php.net/download#php-7.3 
 * Bash : None 
 * R : https://www.rstudio.com/products/rstudio/download/#download 
