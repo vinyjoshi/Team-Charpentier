@@ -3,7 +3,6 @@
 def hammingDist(str1, str2):
     i = 0
     count = 0
- 
     while(i < len(str1)):
         if(str1[i] != str2[i]):
             count += 1
@@ -16,6 +15,5 @@ slackusername="@Harshitha"
 biostack="Genomics"
 Twitter="@Harshiibc"
 
-distance = hammingDist(slackusername, Twitter)
-    
+distance = hammingDist(slackusername, Twitter)    
 print('{},{},{},{},{},{}'.format(name,email,slackusername,biostack,Twitter,distance))
