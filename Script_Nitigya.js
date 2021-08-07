@@ -12,7 +12,7 @@ function hammingDist(str1, str2)
     return count;
 }
     var Name = "Nitigya";
-    var Email = "nitigyaM@something.com";
+    var Email = "nitigyamathur@gmail.com";
     var Slackusername = "@Nitigya-M";
     var Biostack = "Genomics";
     var Twitter = "@Nitigya_M";
