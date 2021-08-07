@@ -10,7 +10,7 @@ This is a repository for the task assigned for stage zero to team-charpentier. T
 * Anirudh Arun Upadhyay : PHP
 * Vinay Joshi : Bash
 * Muskan Mittal : R
-* Aniket : JavaScript
+* Nitigya : JavaScript
 * Harshita : Python
 * Jeel : C++
 
