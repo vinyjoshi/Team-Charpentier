@@ -38,4 +38,8 @@ This Program is used in the Final bash script to compensate for the fact that mo
 * Perl : sudo apt install perl
 * Node : sudo apt install nodejs
 
+After you install all these dependencies, you need to make the downloaded Team_Charpentier.sh file executable using this command.
+Go to the directory it is present in, then give the command: 
+### chmod +x Team_Charpentier.sh
+
 You have to install these to run the main bash sciprt on you computer
