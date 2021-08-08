@@ -1,12 +1,15 @@
-print("Name: Adeosun Sodiq \nEmail: sodiqadeosun@yahoo.com \nslackusername: @sodiq \nbiostack: Genomics\ntwitterusrename: @sodeq")
+#!/usr/bin/python3
 
-twitter = "sodeq"
-slackUser = "sodiq"
-def calculate_ham_distance(a,b):
-    distance = 0
-    for x in range(len(a)):
-        if(a[x] != b[x]):
-           distance+=1
-    return distance
-ham = calculate_ham_distance(twitter, slackUser)
-print("Hamming ditsance: {}".format(ham))
+name="sodiq"
+email="sodiqadeosun@yahoo.com"
+slackusername="@Sodiq"
+biostack="Genomics"
+twitter="@sodeq"
+
+i, distance = 0,0
+while(i < len(slackusername)):
+        if(slackusername[i] != twitter[i]):
+            distance += 1
+        i += 1
+
+print(F"{name},{email},{slackusername},{biostack},{twitter},{distance}")
